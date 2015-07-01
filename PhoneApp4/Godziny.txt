@@ -1,0 +1,102 @@
+﻿[
+    {
+        "Godzina": 4,
+        "Minuty": "31	53",
+        "direction": "Strykowska"
+    },
+    {
+        "Godzina": 5,
+        "Minuty": "31	53",
+        "direction": "Strykowska"
+    },
+    {
+        "Godzina": 6,
+        "Minuty": "04	14		27	39	51",
+        "direction": "Strykowska"
+    },
+	 {
+        "Godzina": 7,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 8,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+    {
+        "Godzina": 9,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	 {
+        "Godzina": 10,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	 {
+        "Godzina": 11,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 12,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 13,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 14,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 15,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 16,
+        "Minuty": "03	15		27	39	51",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 17,
+        "Minuty": "03	14		28	39	58",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 18,
+        "Minuty": "17	24	38	58",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 19,
+        "Minuty": "02	20	40",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 20,
+        "Minuty": "00	20	40",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 21,
+        "Minuty": "00	20	40",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 22,
+        "Minuty": "00	20	30	50",
+        "direction": "Strykowska"
+    },
+	{
+        "Godzina": 23,
+        "Minuty": "10",
+        "direction": "Strykowska"
+    }
+]

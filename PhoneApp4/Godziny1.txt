@@ -1,0 +1,102 @@
+﻿[
+    {
+        "Godzina": 4,
+        "Minuty": "27	46",
+        "direction": "Kurczaki"
+    },
+    {
+        "Godzina": 5,
+        "Minuty": "11	20	30	50",
+        "direction": "Kurczaki"
+    },
+    {
+        "Godzina": 6,
+        "Minuty": "07	14		29	36	51",
+        "direction": "Kurczaki"
+    },
+	 {
+        "Godzina": 7,
+        "Minuty": "03	15		32	44	51",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 8,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+    {
+        "Godzina": 9,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	 {
+        "Godzina": 10,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	 {
+        "Godzina": 11,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 12,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 13,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 14,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 15,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 16,
+        "Minuty": "08	20		32	44	56",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 17,
+        "Minuty": "08	20		32	44	55",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 18,
+        "Minuty": "09	22	32	48",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 19,
+        "Minuty": "08	28	46",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 20,
+        "Minuty": "04	24	44",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 21,
+        "Minuty": "04	24	44",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 22,
+        "Minuty": "04	24	44",
+        "direction": "Kurczaki"
+    },
+	{
+        "Godzina": 23,
+        "Minuty": "04",
+        "direction": "Kurczaki"
+    }
+]

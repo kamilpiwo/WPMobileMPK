@@ -1,0 +1,26 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Product1",
+        "sku": "Product1sku",
+        "description": "Product1 description",
+        "price": 110,
+        "channel": 1
+    },
+    {
+        "id": 3,
+        "name": "Product3",
+        "sku": "Product3sku",
+        "description": "Product3 description",
+        "price": 330,
+        "channel": 1
+    },
+    {
+        "id": 2,
+        "name": "Product2",
+        "sku": "Product2sku",
+        "description": "Product2 description",
+        "price": 220,
+        "channel": 3
+    }
+]

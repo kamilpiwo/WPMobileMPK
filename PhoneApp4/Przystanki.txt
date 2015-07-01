@@ -1,0 +1,107 @@
+﻿[
+    {
+        "id": 4,
+        "stop_street": "31	53",
+        "direction": "Strykowska"
+    },
+    {
+        "id": 5,
+        "stop_street": "13	34	53",
+        "direction": "Product1sku"
+    },
+    {
+        "id": 6,
+        "stop_street": "04	14	27	39	51",
+        "direction": "Product1sku"
+    },
+	 {
+        "id": 7,
+        "stop_street": "03	15	27	39	51",
+        "direction": "Product1sku"
+    },
+	{
+        "id": 8,
+        "stop_street": "Zielona",
+        "direction": "Product1sku"
+    },
+    {
+        "id": 9,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    },
+	 {
+        "id": 10,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    },
+	 {
+        "id": 11,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    },
+	{
+        "id": 12,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    },
+	{
+        "id": 13,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 14,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 15,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 16,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 17,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 18,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 19,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 20,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 21,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 22,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 23,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+	{
+        "id": 24,
+        "stop_street": "Marynarska",
+        "direction": "Product1sku"
+    }
+]
